@@ -16,3 +16,8 @@ Schedule:
 3/21 Revise code
 3/28 Put new revisions together and test them
 4/4  Finish
+
+
+
+Link to Screenshots of project so far:
+https://docs.google.com/document/d/1cxwLfFTIROh1lr6mtTC1lKPVn6btYVll7Q6gUH0OroA/edit?usp=sharing
